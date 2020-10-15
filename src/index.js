@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     items[indexItem].style.zIndex = "1";
     items[prevVal].style.zIndex = "-1";
-    elem.style.display = "block";
     elem.style.left = pos + "px";
+    elem.style.display = "block";
     let id = setInterval(frame, 5);
 
     function frame() {
@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     items[indexItem].style.zIndex = "1";
     items[prevVal].style.zIndex = "-1";
-    elem.style.display = "block";
     elem.style.left = pos + "px";
+    elem.style.display = "block";
     let id = setInterval(frame, 5);
 
     function frame() {

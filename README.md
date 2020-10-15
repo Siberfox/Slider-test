@@ -1,8 +1,6 @@
-# Тестовое задание javascript Purrweb
+# Simple slider on vanilla js
 
-### Выполнил: Иванов Андрей
-
-##### для запуска:
+##### for start:
 
 ```
 npm i
